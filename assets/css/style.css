@@ -1,0 +1,218 @@
+* {
+    box-sizing: border-box;
+
+}
+ body {
+    line-height: 150%;
+ }
+
+header {
+    background-image: url(../fabric_of_squares_gray_@2X.png);
+    padding: 20px;
+    margin: 0;
+    width: 100%;
+
+}
+
+#name:hover {
+    color: black;
+    opacity: .5;
+    background-color: lightslategray;
+    border-left: 2px solid lightgrey;
+    border-right: 2px solid lightgrey;
+
+}
+#name {
+    background-image: url(../fabric_of_squares_gray_@2X.png);
+    padding: 9px;
+    margin: 0;
+    position: fixed;
+    width: 140px;
+    border: none;
+    left: 5px;
+    top: 0px;
+    border-radius: 12%;
+    text-align: center;
+    font-size: 18px;
+
+}
+
+#about:hover {
+    color: black;
+    opacity: .5;
+    background-color: lightslategray;
+    border-left: 2px solid lightgrey;
+    border-right: 2px solid lightgrey;
+
+}
+#about {
+    background-image: url(../fabric_of_squares_gray_@2X.png);
+    padding: 9px;
+    margin: 0;
+    position: fixed;
+    width: 140px;
+    border: none;
+    right: 300px;
+    top: 0px;
+    border-radius: 12%;
+    text-align: center;
+    font-size: 18px;
+
+}
+
+#contact:hover {
+    color: black;
+    opacity: .5;
+    background-color: lightslategray;
+    border-left: 2px solid lightgrey;
+    border-right: 2px solid lightgrey;
+
+}
+#contact {
+    background-image: url(../fabric_of_squares_gray_@2X.png);
+    padding: 9px;
+    margin: 0;
+    position: fixed;
+    width: 140px;
+    border: none;
+    right: 150px;
+    top: 0px;
+    border-radius: 12%;
+    text-align: center;
+    font-size: 18px;
+
+}
+
+#projects:hover {
+    color: black;
+    opacity: .5;
+    background-color: lightslategray;
+    border-left: 2px solid lightgrey;
+    border-right: 2px solid lightgrey;
+
+}
+#projects {
+    background-image: url(../fabric_of_squares_gray_@2X.png);
+    padding: 9px;
+    margin: 0;
+    position: fixed;
+    width: 140px;
+    border: none;
+    right: 5px;
+    top: 0px;
+    border-radius: 12%;
+    text-align: center;
+    font-size: 18px;
+
+}
+
+.photo {
+    padding: 45px;
+
+}
+
+#image {
+    width: 111px;
+    border-radius: 50%;
+    position: absolute;
+    padding: 1px;
+    margin: 0;
+    top: 60px;
+    left: 580px;
+
+}
+
+#upic {
+    text-align: center;
+    font-size: 46px;
+    margin-top: 60px;
+    padding-top: 80px;
+
+}
+
+#quirq {
+    text-align: center;
+    font-size: 24px;
+    padding-top: 20px;
+    opacity: .5;
+
+}
+
+hr {
+    display: block;
+    height: 2px;
+    border: 0;
+    border-top: 2px solid #ccc;
+    margin: 0;
+    padding: 0;
+}
+
+.about-me {
+    text-align: left;
+    float: left;
+    width: 50%;
+    padding-left: 80px;
+
+}
+
+h2 {
+    text-decoration: underline;
+    padding-top: 30px;
+    padding-left: 220px;
+    padding-bottom: 5px;
+    font-size: 24px;
+
+}
+
+p {
+    text-align: center;
+    font-size: 18px;
+    padding-right: 20px;
+}
+
+#vert-line {
+    float: left;
+    height: 270px;
+    border-left: 2px solid #ccc;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+
+.contact-icon {
+    float: left;
+    width: 45%;
+    text-align: left;
+    padding-left: 260px;
+
+
+}
+
+h4 {
+    padding-top: 30px;
+    text-align: left;
+    text-decoration: underline;
+    padding-bottom: 5px;
+    font-size: 24px;
+
+}
+
+li {
+    line-height: 250%;
+
+}
+
+footer {
+    background-image: url(../fabric_of_squares_gray_@2X.png);
+    position: fixed;
+    padding: 10px;
+    text-align: center;
+    border-top: 2px solid #ccc;
+    width: 100%;
+    bottom: 0;
+    left: 0;
+    margin: 0;
+
+}
+
+  
